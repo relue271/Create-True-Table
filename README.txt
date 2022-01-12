@@ -9,6 +9,7 @@ $python create-table.py
 in: 2
 
 out:
+A B
 0 0
 0 1
 1 0
@@ -22,6 +23,7 @@ $python create-table.py
 in: 3
 
 out:
+A B C
 0 0 0
 0 0 1
 0 1 0
