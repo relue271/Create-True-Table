@@ -1,2 +1,4 @@
-# Create-True-Table
-Criador de tabela verdade em python
+Projeto de criação de uma tabela verdade
+em linguagem python
+
+status: Em desenvolvimento
